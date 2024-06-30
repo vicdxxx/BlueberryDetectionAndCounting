@@ -1,0 +1,16 @@
+
+path: D:\Dataset\DenseBlueberry\Blueberry_140_images
+# val2017
+# test2017
+train: train2017.0
+val: test2017.0
+test: test2017.0
+
+# nc: 4
+# names: ['Unblue_visible', 'Unblue_occluded', 'Blue_visible', 'Blue_occluded']
+
+names:
+  0: Unblue_visible
+  1: Blue_occluded
+  2: Unblue_occluded
+  3: Blue_visible
