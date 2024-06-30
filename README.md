@@ -1,16 +1,16 @@
 # Blueberry Detection and Counting
- Corresponding to the article "Blueberry Detection and Counting by YOLOv8 towards Automated Maturity Assessment and Yield Estimation"
+ Corresponding to the article "Canopy Image-based Blueberry Detection by YOLOv8 and YOLOv9"
 
  ## Citation
 Please consider cite our work if you find this repo is helpful.
 ```
 @article{Update soon,
-  title={Blueberry Detection and Counting by YOLOv8 towards Automated Maturity Assessment and Yield Estimation},
-  author={Lu, Yuzhen and Deng, Boyang},
+  title={Canopy Image-based Blueberry Detection by YOLOv8 and YOLOv9 },
+  author={Boyang Deng, Yuzhen Lu*},
   journal={Update soon},
   volume={Update soon},
   pages={Update soon},
-  year={2023},
+  year={2024},
   publisher={update soon}
 }
 ```
