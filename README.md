@@ -20,5 +20,4 @@ Please consider cite our work if you find this repo is helpful.
 
  Dataset URL: {Update soon}
 
-## Citation
-Boyang Deng, Yuzhen Lu, 2024. Canopy Image-based Blueberry Detection by YOLOv8 and YOLOv9.
+
