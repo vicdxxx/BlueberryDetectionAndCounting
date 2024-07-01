@@ -1,5 +1,5 @@
 # Blueberry Detection and Counting
- Corresponding to the article "Canopy Image-based Blueberry Detection by YOLOv8 and YOLOv9"
+This repository contains source codes for the peformance evaluation of YOLOv8 and YOLOv9 for blueberry dection, counting, and harvest maturity assessment. The dataset of blueberry canopy images will be made available very soon. 
 
  ## Citation
 Please consider cite our work if you find this repo is helpful.
@@ -19,3 +19,6 @@ Please consider cite our work if you find this repo is helpful.
  Wokring protocol: BlueberryAnnotationProtocol 03132023.pdf
 
  Dataset URL: {Update soon}
+
+## Citation
+Boyang Deng, Yuzhen Lu, 2024. Canopy Image-based Blueberry Detection by YOLOv8 and YOLOv9.
